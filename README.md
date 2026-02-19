@@ -29,17 +29,17 @@ The objective of this project is to build a classification model that predicts w
 
 ## Project Structure
 
-employee-attrition-ml/
-│
-├── notebooks/
-│ ├── 01_data_ingestion_eda.ipynb
-│ ├── 02_data_cleaning_feature_engineering.ipynb
-│ ├── 03_model_training_sagemaker.ipynb
-│ └── 04_evaluation_and_deployment.ipynb
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
+employee-attrition-ml/     
+│    
+├── notebooks/    
+│ ├── 01_data_ingestion_eda.ipynb    
+│ ├── 02_data_cleaning_feature_engineering.ipynb    
+│ ├── 03_model_training_sagemaker.ipynb    
+│ └── 04_evaluation_and_deployment.ipynb    
+│    
+├── README.md    
+├── requirements.txt    
+└── .gitignore    
 ---
 
 ## Workflow Summary
@@ -100,3 +100,4 @@ These results represent a strong baseline model for employee attrition predictio
 
 ## Author
 Ahmed Ali, Sanjay Kumar
+
